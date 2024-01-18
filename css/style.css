@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgba(0, 89, 255, 0.76);
+    color: white;
+    margin: auto;
+    height: 50px;
+    width: 800px;
+    
+}
+
+p {
+    text-align: center;
+    background-color: rgba(0, 89, 255, 0.76);
+    color: white;
+    margin-top: -60px;
+    margin: auto;
+    height: 60px;
+    width: 800px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+section {
+    height: 350px;
+    width: 800px;
+    margin: auto;
+}
